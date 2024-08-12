@@ -1,0 +1,121 @@
+.first{
+    border: solid  black;
+    width: 50px;
+    height: 50px;
+    padding-left: 25px;
+    padding-top: 25px;
+    color: white;
+    background-color: rgb(135, 88, 135);
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.second{
+    border: solid  black;
+    width: 175px;
+    height: 110px;
+    padding-left: 25px;
+    padding-top: 25px;
+    color: white;
+    background-color: rgb(135, 88, 135);
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.third{
+    border: solid  black;
+    width: 50px;
+    height: 50px;
+    padding-left: 25px;
+    padding-top: 25px;
+    color: white;
+    background-color: rgb(197, 175, 197);
+    margin-left: 380px;
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+.fourth{
+    border: solid  black;
+    width: 210px;
+    height: 150px;
+    padding-left: 25px;
+    padding-top: 25px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(197, 175, 197);
+    margin-left: 380px;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.mainb{
+    border: 1px solid  black;
+    width: 650px;
+    height: 835px;    
+}
+     
+.fifth{
+    border: solid  black;
+    width: 25px;
+    height: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+    color: white;
+    background-color: rgb(135, 88, 135);
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-bottom: 15px;
+}
+
+img{
+    height: 50px;
+    width:50px;
+    border-radius: 100px;
+    margin-left: 12px;
+    margin-top: 10px;
+    
+    
+}
+.backbutton{
+    margin-left: 0px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    cursor: pointer;
+    border: 1px solid black;
+    width: 650px;
+    border-width: 0.1px;
+}
+.msg{
+    margin-left: 230px;
+}
+
+.name{
+    margin-left: 12px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.textbox{
+    height: 46px;
+    width: 645px;
+    background-image: url(img/icons8-microphone-24.png);
+    background-repeat: no-repeat;
+    background-position: 600px;
+    border: 0.1px solid rgb(0, 0, 0);
+}
+.left{
+    flex-grow: 1;
+    max-width: 40%;
+    display: flex;
+    flex-direction: column;
+    border-right: solid 1px var(--border-color);
+   
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+
